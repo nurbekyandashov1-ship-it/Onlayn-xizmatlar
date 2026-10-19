@@ -1,0 +1,11 @@
+# ===================================================================
+# NURBEK DIGITAL — robots.txt
+# Qidiruv botlari (Googlebot, Yandex va h.k.) uchun ko'rsatmalar
+# ===================================================================
+
+User-agent: *
+Allow: /
+
+# Sitemap fayli joylashuvi:
+# Agar shaxsiy domenga ulansangiz, ushbu manzilni o'z domeningizga o'zgartiring
+Sitemap: https://nurbekyandashov1-ship-it.github.io/nurbek-digital/sitemap.xml
